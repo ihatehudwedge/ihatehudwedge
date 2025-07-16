@@ -27,9 +27,11 @@
 ### 📑 Project
 
 |기간|내용|프로젝트|
-|:-:|:-:|:-:|
+|:--|:--|:--|
 |2025.03 - 2025.06|사이버보안 캡스톤 - NFC Lock Guard|[캡스톤디자인](https://github.com/Capstone-CyberSecurity/ProjectDocs)|
 |2025.03 - 2025.06|지능시스템 캡스톤 - 자동매매 Agent|[캡스톤디자인](https://github.com/ksp3012011/IntelSysCapstone)|
+|2024.09 - 2024.12|SW 산학협력 프로젝트|[산학협력](https://github.com/ihatehudwedge/ServerAndHW_With_JTSHHSP)|
+|2024.06|유니티 툴 개발 - Tadadak|[개인 오픈소스](https://github.com/ihatehudwedge/Tadadak-UnityTMP)|
 
 <br/>
 
