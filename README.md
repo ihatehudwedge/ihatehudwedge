@@ -31,7 +31,8 @@
 |2025.03 - 2025.06|사이버보안 캡스톤디자인|[NFC Lock Guard](https://github.com/Capstone-CyberSecurity/ProjectDocs)|
 |2025.03 - 2025.06|지능시스템 캡스톤디자인|[자동매매 Agent](https://github.com/ksp3012011/IntelSysCapstone)|
 |2024.09 - 2024.12|SW 산학협력 프로젝트|[IronHorizon 내 센서 및 서버](https://github.com/ihatehudwedge/ServerAndHW_With_JTSHHSP)|
-|2024.06 - 2024.06|유니티 오픈소스 개발|[Tadadak](https://github.com/ihatehudwedge/Tadadak-UnityTMP)|
+|2024.06 - 2024.06|유니티 텍스트 순차처리 오픈소스|[Tadadak](https://github.com/ihatehudwedge/Tadadak-UnityTMP)|
+|2024.05 - 2024.05|타이밍 액션 연애 시뮬레이션 게임|[Romantic-Timing](https://github.com/TeamCadence/Romantic-Timing)|
 |2023.04 - 2023.12|스테이지형 캐주얼 모바일 게임|[꽃이 피는 날](https://github.com/Team-efni/FlowersBloom)|
 
 <br/>
@@ -57,5 +58,5 @@
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-4786BB?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/X64dbg-000000?style=for-the-badge&logo=openbugbounty&logoColor=red&labelColor=black">
+  <img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logo=openbugbounty&logoColor=red&labelColor=black">
 </div>
