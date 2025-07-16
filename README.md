@@ -2,19 +2,21 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:328547,100:54cfb6&height=180&text=Hi,%20This%20is%20Kim%20Sihoon&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-## 📢 About Me
+> 김시훈 입니다.
 
 ## 🌟 My Activity
 
 ### 🏅 Reward
 
-ICT플랫폼학회 하계 학술대회 
-논문우수상 수상 *(2025년 6월)*
+- ICT플랫폼학회 하계 학술대회 논문우수상 수상 *(2025년 6월)*
 
-한성대 캡스톤디자인 IT융합공학부 부분 
-장려상 수상 *(2025년 6월)*
+- 한성대 캡스톤디자인 IT융합공학부 부분 장려상 수상 *(2025년 6월)*
 
-### Project
+### 🪶 History
+
+- SK쉴더스 루키즈 클라우드보안 26기 *(2025년 7월 - 현재)*
+
+- 한성대학교 IT융합공학부 지능시스템/사이버보안 트랙 과정*(2020년 3월 - 현재)*
 
 ## 📜 Used Language
 <div>
