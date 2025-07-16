@@ -26,12 +26,13 @@
 
 ### 📑 Project
 
-|기간|내용|프로젝트|
-|:--|:--|:--|
-|2025.03 - 2025.06|사이버보안 캡스톤 - NFC Lock Guard|[캡스톤디자인](https://github.com/Capstone-CyberSecurity/ProjectDocs)|
-|2025.03 - 2025.06|지능시스템 캡스톤 - 자동매매 Agent|[캡스톤디자인](https://github.com/ksp3012011/IntelSysCapstone)|
-|2024.09 - 2024.12|SW 산학협력 프로젝트|[산학협력](https://github.com/ihatehudwedge/ServerAndHW_With_JTSHHSP)|
-|2024.06|유니티 툴 개발 - Tadadak|[개인 오픈소스](https://github.com/ihatehudwedge/Tadadak-UnityTMP)|
+|기간|내용|프로젝트명|구분|
+|:--|:--|:--|:--|
+|2025.03 - 2025.06|사이버보안 캡스톤디자인|[NFC Lock Guard](https://github.com/Capstone-CyberSecurity/ProjectDocs)|캡스톤 프로젝트|
+|2025.03 - 2025.06|지능시스템 캡스톤디자인|[자동매매 Agent](https://github.com/ksp3012011/IntelSysCapstone)|캡스톤 프로젝트|
+|2024.09 - 2024.12|SW 산학협력 프로젝트|[IronHorizon 센서 작업](https://github.com/ihatehudwedge/ServerAndHW_With_JTSHHSP)|산학협력 프로젝트|
+|2024.06 - 2024.06|유니티 오픈소스 개발|[Tadadak](https://github.com/ihatehudwedge/Tadadak-UnityTMP)|개인 오픈소스 프로젝트|
+|2023.04 - 2023.12|스테이지형 캐주얼 모바일 게임|[꽃이 피는 날](https://github.com/Team-efni/FlowersBloom)|동아리 프로젝트|
 
 <br/>
 
