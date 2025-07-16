@@ -25,7 +25,7 @@
 |기간|내용|프로젝트|
 |:-:|:-:|:-:|
 |2025.03 - 2025.06|사이버보안 캡스톤 - NFC Lock Guard|[캡스톤디자인](https://github.com/Capstone-CyberSecurity/ProjectDocs)|
-|2025.03 - 2025.06|지능시스템 캡스톤 - 자동매 Agent|[캡스톤디자인](https://github.com/ksp3012011/IntelSysCapstone)|
+|2025.03 - 2025.06|지능시스템 캡스톤 - 자동매매 Agent|[캡스톤디자인](https://github.com/ksp3012011/IntelSysCapstone)|
 
 ## 📜 Used Language
 <div>
