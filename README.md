@@ -56,6 +56,7 @@
 <div> 
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-4786BB?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logo=openbugbounty&logoColor=red&labelColor=black">
