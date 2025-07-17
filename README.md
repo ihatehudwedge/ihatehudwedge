@@ -6,9 +6,9 @@
 
 > 김시훈 입니다.
 
-# 🌟 My Activity
+# 🌟 My Activities
 
-### 🏅 Reward
+### 🏅 Rewards
 
 - (사)ICT플랫폼학회 2025 하계학술대회 논문우수상 *(2025년 6월)*
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-### 📑 Project
+### 📑 Projects
 
 |기간|내용|프로젝트명|
 |:--|:--|:--|
@@ -37,7 +37,7 @@
 
 <br/>
 
-# 📜 Used Language
+# 📜 Used Languages
 <div>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%23&logoColor=white">
