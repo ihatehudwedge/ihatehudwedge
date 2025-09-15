@@ -63,7 +63,11 @@
   <img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logo=openbugbounty&logoColor=red&labelColor=black">
 </div>
 
+<br/>
 
+<br/>
+
+<br/>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ihatehudwedge&utm_content=farm">
 <img
